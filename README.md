@@ -23,9 +23,9 @@ Capstone Group 4 report
 Foragee Powerpoint Presentation
 
 # Python Notebooks
-Likedin_Scraping.ipynb
-Linkedin_topic_modelling_Gensim.ipynb
-Preprocessing_AddGensimKeywordsasSkillsForNull.ipynb
-Preprocessing_Code_Check_duplicate_URL_and_Exp.ipynb
-Preprocessing_clean_and_convert_EduExp2Months.ipynb
-FinalVersion_SklearnLDA.ipynb
+- Likedin_Scraping.ipynb
+- Linkedin_topic_modelling_Gensim.ipynb
+- Preprocessing_AddGensimKeywordsasSkillsForNull.ipynb
+- Preprocessing_Code_Check_duplicate_URL_and_Exp.ipynb
+- Preprocessing_clean_and_convert_EduExp2Months.ipynb
+- FinalVersion_SklearnLDA.ipynb
