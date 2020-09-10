@@ -3,7 +3,7 @@
 
 # Capstone-Project-LinkedIn [FORAGEE]
 Searching Linkedln using Topic Modelling with Python, Selenium ( Python API), Flask and others.
-This project is a dissertation presented by Rajarshi Chowdhuryto
+This project is a dissertation presented by Rajarshi Chowdhury to
 The Data Science Department in partial fulfillment of the requirements
 for the degree of
 Post Graduate Program in Data Science
